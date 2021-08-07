@@ -1,18 +1,18 @@
 ## Welcome to the Neural Knowledge DNA Lab
 
 “神经知识基因实验室” 致力于人工智能知识工程理论、方法和应用研究。主要研究内容包括：知识表示与推理、可解释的人工智能、物联网数据分析与挖掘、知识图的建立与应用等。
-实验室长期承担担国家级项目、国际合作项目、以及部委和企业合作项目。研究成果在相关领域的IEEE Transaction以及计算机学会指定的A类国际期刊、会议上发表80余篇高水平论文，在学生培养方面也取得了优秀的成绩。
+实验室长期承担担国家级项目、国际合作项目、以及部委和企业合作项目。研究成果在相关领域的IEEE Transaction以及计算机学会指定的A类国际期刊、会议上发表60余篇高水平论文，在学生培养方面也取得了优秀的成绩。
 
 # 研究团队
 
-## 教师
+## 带队教师
 
 ### 张浩曦
 男，副教授，博士，研究生导师，计算机科学与技术专业。
 
 博士毕业于澳大利亚纽卡斯尔大学，博士期间主要从事人工智能领域研究，同期还作为访问研究员前往西班牙Vicomtech研究所参与欧盟的科研课题。目前主要从事基于经验的知识发现与表示、基于知识的计算推理、深度学习以及人工智能与工业4.0、智能物联网等方面的结合与应用工作。
 
-目前张浩曦博士共发表国际高水平论文SCI/EI 期刊论文30余篇，其中包括 IEEE Internet of Things Journal (IF 9.936), Future Generation Computer Systems (IF 6.125), Knowledge-Based Systems (IF 5.921), Neurocomputing (IF 4.438), Cybernetics and Systems (IF 1.433), Journal of Intelligent & Fuzzy Systems (IF 1.851) 等国际知名期刊。主持四川省科技项目1项、教育部留学回国人员科研启动费课题1项；并先后参研国家自然科学基金项目、四川省人工智能重大专项项目等多项课题的研究工作。
+目前张浩曦博士共发表国际高水平论文SCI/EI 期刊论文40余篇，其中包括 IEEE Internet of Things Journal (IF 9.936), Future Generation Computer Systems (IF 6.125), Knowledge-Based Systems (IF 5.921), Neurocomputing (IF 4.438), Cybernetics and Systems (IF 1.433), Journal of Intelligent & Fuzzy Systems (IF 1.851) 等国际知名期刊。主持四川省科技项目1项、教育部留学回国人员科研启动费课题1项；并先后参研国家自然科学基金项目、四川省人工智能重大专项项目等多项课题的研究工作。
 
 ## 研究生
 
