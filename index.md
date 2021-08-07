@@ -14,7 +14,7 @@
 
 博士毕业于澳大利亚纽卡斯尔大学，博士期间主要从事人工智能领域研究，同期还作为访问研究员前往西班牙Vicomtech研究所参与欧盟的科研课题。目前主要从事基于经验的知识发现与表示、基于知识的计算推理、深度学习以及人工智能与工业4.0、智能物联网等方面的结合与应用工作。
 
-目前张浩曦博士共发表国际高水平论文SCI/EI 期刊论文40余篇，其中包括 IEEE Internet of Things Journal (IF 9.936), Future Generation Computer Systems (IF 6.125), Knowledge-Based Systems (IF 5.921), Neurocomputing (IF 4.438), Cybernetics and Systems (IF 1.433), Journal of Intelligent & Fuzzy Systems (IF 1.851) 等国际知名期刊。主持四川省科技项目1项、教育部留学回国人员科研启动费课题1项；并先后参研国家自然科学基金项目、四川省人工智能重大专项项目等多项课题的研究工作。
+目前张浩曦博士共发表国际高水平论文SCI/EI 期刊论文40余篇，其中包括 IEEE Internet of Things Journal (IF 9.936), Knowledge-Based Systems (IF 8.038), Future Generation Computer Systems (IF 7.187),  Neurocomputing (IF 5.719)等国际知名期刊。主持四川省科技项目1项、教育部留学回国人员科研启动费课题1项；并先后参研国家自然科学基金项目、四川省人工智能重大专项项目等多项课题的研究工作。
 
 ---------------
 ## - 研究生
