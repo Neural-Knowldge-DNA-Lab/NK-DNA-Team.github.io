@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to the Neural Knowledge DNA Lab
 
-You can use the [editor on GitHub](https://github.com/Neural-Knowldge-DNA-Lab/NK-DNA-Team.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+神经知识基因实验室致力于人工智能知识工程理论、方法和应用研究。主要研究内容包括：知识表示与推理、可解释的人工智能、物联网数据分析与挖掘、知识图的建立与应用等。
+实验室长期承担担国家级项目、国际合作项目、以及部委和企业合作项目。研究成果在相关领域的IEEE Transaction以及计算机学会指定的A类国际期刊、会议上发表80余篇高水平论文，在学生培养方面也取得了优秀的成绩。
 
 ### Markdown
 
