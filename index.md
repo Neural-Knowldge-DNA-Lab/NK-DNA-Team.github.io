@@ -1,36 +1,57 @@
 ## Welcome to the Neural Knowledge DNA Lab
 
-神经知识基因实验室致力于人工智能知识工程理论、方法和应用研究。主要研究内容包括：知识表示与推理、可解释的人工智能、物联网数据分析与挖掘、知识图的建立与应用等。
+“神经知识基因实验室” 致力于人工智能知识工程理论、方法和应用研究。主要研究内容包括：知识表示与推理、可解释的人工智能、物联网数据分析与挖掘、知识图的建立与应用等。
 实验室长期承担担国家级项目、国际合作项目、以及部委和企业合作项目。研究成果在相关领域的IEEE Transaction以及计算机学会指定的A类国际期刊、会议上发表80余篇高水平论文，在学生培养方面也取得了优秀的成绩。
 
-### Markdown
+# 研究团队
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 教师
 
-```markdown
-Syntax highlighted code block
+### 张浩曦
+男，副教授，博士，研究生导师，计算机科学与技术专业。
 
-# Header 1
-## Header 2
-### Header 3
+博士毕业于澳大利亚纽卡斯尔大学，博士期间主要从事人工智能领域研究，同期还作为访问研究员前往西班牙Vicomtech研究所参与欧盟的科研课题。目前主要从事基于经验的知识发现与表示、基于知识的计算推理、深度学习以及人工智能与工业4.0、智能物联网等方面的结合与应用工作。
 
-- Bulleted
-- List
+目前张浩曦博士共发表国际高水平论文SCI/EI 期刊论文30余篇，其中包括 IEEE Internet of Things Journal (IF 9.936), Future Generation Computer Systems (IF 6.125), Knowledge-Based Systems (IF 5.921), Neurocomputing (IF 4.438), Cybernetics and Systems (IF 1.433), Journal of Intelligent & Fuzzy Systems (IF 1.851) 等国际知名期刊。主持四川省科技项目1项、教育部留学回国人员科研启动费课题1项；并先后参研国家自然科学基金项目、四川省人工智能重大专项项目等多项课题的研究工作。
 
-1. Numbered
-2. List
+## 研究生
 
-**Bold** and _Italic_ and `Code` text
+### 周阳
+- 主要研究方向为计算机视觉
 
-[Link](url) and ![Image](src)
-```
+---------------
+### 宁广健
+- 主要研究方向为推荐系统
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 李源
+- 主要研究方向为推荐系统
 
-### Jekyll Themes
+---------------
+### 周仁浩
+- 主要研究方向为计算机视觉/语义分割
+
+### 李贵贤
+- 主要研究方向为机器人控制
+
+### 刘俊麟
+- 主要研究方向为区块链与知识流转
+
+---------------
+### 李明辉
+- 主要研究方向为计算机视觉语义表示与推理
+
+### 肖俊杰
+- 主要研究方向为规则提取与决策生成
+
+### 余林峰
+- 主要研究方向为异常检测与分析
+
+### 徐煜峰
+- 主要研究方向为可解释的智能控制/自动驾驶
+
+### 刘涛
+- 主要研究方向为计算机图像生成
+
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neural-Knowldge-DNA-Lab/NK-DNA-Team.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
