@@ -51,7 +51,3 @@
 
 ### 刘涛
 - 主要研究方向为计算机图像生成
-
-
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neural-Knowldge-DNA-Lab/NK-DNA-Team.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
